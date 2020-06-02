@@ -1,0 +1,8 @@
+{
+    "verbose": true,
+    "ext": "js",
+    "watch": ["."],
+    "ignore": ["node_modules"],
+    "env": {},
+    "exec": "node --inspect ./src/index.js"
+}
